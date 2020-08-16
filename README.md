@@ -1,7 +1,4 @@
-# Code Institute
-
-Welcome USER_NAME,
-
-We have preinstalled all of the tools you need to get started.
-
-Happy coding!
+import os
+from flask import Flask, render_template, redirect, request, url_for
+from flask_pymongo import PyMongo
+from bson.objectid import ObjectId
