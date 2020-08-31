@@ -58,7 +58,10 @@ In the footer of every page there are links to each page.
 * Gitpod
   * This was the software that I used to write the html, css, javascript and Readme files.
   * It was used to store all the images and files.
-   
+
+* Materialize
+  * This was used to style the app.
+
 * HTML 
   * This was used to create the mark up language.
    
@@ -91,6 +94,7 @@ In the footer of every page there are links to each page.
   * An [HTML validator](https://validator.w3.org/#validate_by_input) was used to check the code.
   * A [CSS checker](https://jigsaw.w3.org/css-validator/#validate_by_input) was used to check the stylings.
 
+Used parts of the code from the mini project.
 The project uses JQuery to simplify DOM manipulation.
 
 ## Testing
